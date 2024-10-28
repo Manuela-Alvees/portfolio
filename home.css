@@ -1,0 +1,128 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #bcc6d1;
+
+}
+
+.div {
+    background-color: #4d617670;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+img {
+    width: 600px;
+    height: 200px;
+}
+
+.seg_div {
+    background-color: #3e5784;
+    color: #dad1d1;
+    padding: 20px;
+    text-align: center;
+}
+a{
+    color: #dad1d1;
+}
+
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.galeria img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.fil {
+    background-color: #4d617670;
+    border: #333;
+    color: #a81616;
+    text-align: center;
+}
+
+p {
+    color: #150303;
+}
+
+fieldset {
+    background-color: #3e5784;
+    color: #e6e9f0;
+    padding: 20px;
+    text-align: center;
+}
+
+p {
+    color: #150303;
+}
+
+button {
+    border-radius: 5px;
+}
+
+.fil_seg {
+    border-radius: 5px;
+}
+
+.parte2 {
+    background-color: #3e5784;
+    color: #150303;
+    padding: 40px;
+    display: flex;
+    margin: 10px;
+}
+
+.parte2 img {
+    width: 400px;
+    height: 400px;
+}
+
+.fotos {
+    background-color: #3e5784;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 40px;
+}
+
+.fotos img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+p {
+
+    justify-content: flex-start;
+}
+
+.contato {
+    background-color: #3e5784;
+    color: #150303;
+    padding: 40px;
+    margin: 10px;
+    padding: 40px
+}
+
+.contato img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.sobre {
+    border: #150303;
+
+}
